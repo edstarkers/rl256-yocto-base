@@ -14,7 +14,7 @@
   <remote fetch="https://source.codeaurora.org/external/imx" name="CAF"/>
   <remote fetch="https://github.com/kraj" name="clang"/>
   <remote fetch="https://source.codeaurora.org/external/imxsupport" name="imx-support"/>
-  <remote fetch="git://github.com/murata-wireless"  name="Murata"/>
+  <remote fetch="https://github.com/murata-wireless"  name="Murata"/>
   
   <!-- Custom Sources -->
   <remote fetch="git://github.com/edstarkers"  name="ES"/>
