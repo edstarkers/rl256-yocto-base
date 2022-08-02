@@ -27,7 +27,7 @@
   
   <!-- rl256-meta-imx is a clone of meta-imx, this version has is patched to allow the uart4 to be accessible from the A53 CPU -->
   
-  <project name="meta-rl256" path="sources/meta-imx" remote="ES" revision="8425f705fb5676fcb796c39a82e6c3fba92a7c8f"/>
+  <project name="meta-rl256" path="sources/meta-imx" remote="ES" revision="f4a70ae00f3db121b623dea9cd08f078a5f5b9b8"/>
   
    <!-- clone of murata wireless as machine defnintions exist in the layers... why oh why....-->
  
